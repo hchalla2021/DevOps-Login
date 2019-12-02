@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18691" started-at="2019-12-02T06:54:03Z" finished-at="2019-12-02T06:54:22Z">
+  <suite name="Suite" duration-ms="15915" started-at="2019-12-02T11:24:38Z" finished-at="2019-12-02T11:24:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18691" started-at="2019-12-02T06:54:03Z" finished-at="2019-12-02T06:54:22Z">
+    <test name="Test" duration-ms="15915" started-at="2019-12-02T11:24:38Z" finished-at="2019-12-02T11:24:54Z">
       <class name="com.Google.GLaunch">
-        <test-method status="PASS" signature="Launchg()[pri:0, instance:com.Google.GLaunch@55f3ddb1]" name="Launchg" duration-ms="18669" started-at="2019-12-02T06:54:03Z" finished-at="2019-12-02T06:54:22Z">
+        <test-method status="PASS" signature="Launchg()[pri:0, instance:com.Google.GLaunch@55f3ddb1]" name="Launchg" duration-ms="15876" started-at="2019-12-02T11:24:39Z" finished-at="2019-12-02T11:24:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Launchg -->
       </class> <!-- com.Google.GLaunch -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
